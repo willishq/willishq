@@ -1,4 +1,11 @@
-### Hi there 👋
+WillisHQ
+========
+
+- 🔭 I’m currently working on [https://swipeforcats.com](swipeforcats.com) and a top secret game using pixi.js
+- 🌱 I’m currently learning Crystal, and Elixir
+- 📫 How to reach me: [https://twitter.com/ilovefluffy](twitter.com/ilovefluffy)
+
+
 
 <!--
 **willishq/willishq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
